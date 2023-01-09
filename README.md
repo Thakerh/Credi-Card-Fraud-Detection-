@@ -20,7 +20,7 @@ You will need Python 3.6 or higher and the following packages installed:
 Clone this repository and navigate to the directory containing the code:
 
 ```
-git clone https://github.com/thakerh/credit-card-fraud-detection.git
+gh repo clone Thakerh/Credi-Card-Fraud-Detection-
 cd credit-card-fraud-detection
 ```
 
